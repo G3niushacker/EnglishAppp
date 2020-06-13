@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "53361080795",
+    "firebase_url": "https://englishapp-a7db5.firebaseio.com",
+    "project_id": "englishapp-a7db5",
+    "storage_bucket": "englishapp-a7db5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53361080795:android:7b5678854e6b0a48ad0ffe",
+        "android_client_info": {
+          "package_name": "com.example.englishapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53361080795-umhrrp1v47hka7q29glhqs9gqv78jj43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4JQPLDbmrLdfmCqRUcg7kUKX12M9_WR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53361080795-umhrrp1v47hka7q29glhqs9gqv78jj43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
