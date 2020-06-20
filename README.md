@@ -1,10 +1,22 @@
 # englishapp
 
-A new Flutter project.
+This is Ecommerce app made in Google Flutter and Dart as a Backend language..
 
-## Getting Started
+<h2>Languages</h2>
+<ul>
+  <li>English</li> 
+  <li>Arabic</li> 
+</ul>
+<h1> Resources</h1>
 
-This project is a starting point for a Flutter application.
+<h3>Flutter</h3>
+<p>Flutter is frameWork for Hybird Mobile Application development for andoid and ios.</p>
+<h3>Dart</h3>
+<p>Dart programming language is used in flutter backend.</p>
+<h3>Firebase</h3>
+<p>firebase is google product that allow to create server side application.</p>
+
+<p>Payment integration service i used in this project.</p>
 
 A few resources to get you started if this is your first Flutter project:
 
