@@ -1,4 +1,4 @@
-# englishapp
+# Ecommerce App 
 
 This is Ecommerce app made in Google Flutter and Dart as a Backend language..
 
@@ -17,6 +17,17 @@ This is Ecommerce app made in Google Flutter and Dart as a Backend language..
 <p>firebase is google product that allow to create server side application.</p>
 
 <p>Payment integration service i used in this project.</p>
+
+<h1>Here is preview of app</h1>
+
+![prf](https://user-images.githubusercontent.com/43205151/85210802-ecef6680-b2f7-11ea-9cd6-46b11ac296e0.jpg)
+![pyt](https://user-images.githubusercontent.com/43205151/85210807-efea5700-b2f7-11ea-9b45-baf6b1432679.jpg)
+![catg](https://user-images.githubusercontent.com/43205151/85210808-f4af0b00-b2f7-11ea-8983-8a2326ca0989.jpg)
+![chat](https://user-images.githubusercontent.com/43205151/85210812-f678ce80-b2f7-11ea-85ef-e174276e95ae.jpg)
+![drw](https://user-images.githubusercontent.com/43205151/85210815-f8429200-b2f7-11ea-8333-bfa4cef1e2d7.jpg)
+![hme](https://user-images.githubusercontent.com/43205151/85210816-fa0c5580-b2f7-11ea-862f-fbbb0197fbcb.jpg)
+![pst](https://user-images.githubusercontent.com/43205151/85210817-fc6eaf80-b2f7-11ea-9f24-11ab999e4922.jpg)
+
 
 A few resources to get you started if this is your first Flutter project:
 
